@@ -15,7 +15,7 @@ function SiteHeader() {
           rel="noopener noreferrer"
           className="font-bold text-green-400 text-lg"
         >
-          GitHub
+          ~/nipuna
         </a>
 
         {/* Desktop links */}
@@ -34,7 +34,7 @@ function SiteHeader() {
 
         {/* Desktop button */}
         <a
-          href="https://www.fiverr.com/s/Nee7o2p"
+          href="https://www.fiverr.com/s/yeW2m8A"
           target="_blank"
           rel="noopener noreferrer"
           className="hidden rounded-full bg-green-400 px-4 py-2 font-semibold text-black transition hover:bg-green-300 md:block"
